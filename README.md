@@ -45,6 +45,9 @@
   
 <p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>... And Learning Something New Everyday!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></p>
 
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja-Codes&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+
 <br/><br/><br/>
 <p><b>Visitor's Count: </b></p>
 <img src="https://profile-counter.glitch.me/Pooja-Codes/count.svg" alt="visitor count badge"/>
