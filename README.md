@@ -45,8 +45,8 @@
   
 <p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>... And Learning Something New Everyday!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></p>
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja-Codes&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Pooja-Codes&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Pooja-Codes&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 
 <br/><br/><br/>
 <p><b>Visitor's Count: </b></p>
@@ -54,4 +54,4 @@
 
 Credit: [Pooja-Codes](https://github.com/Pooja-Codes)
 
-Last Updated On: 22/12/2022
+Last Updated On: 23/01/2023
