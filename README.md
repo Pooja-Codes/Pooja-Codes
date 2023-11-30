@@ -4,7 +4,20 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pooja-patel-here/"><img src="https://img.shields.io/badge/-Pooja%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p> 
-[![Credly Badge](https://www.credly.com/badges/d311284f-61d5-4e45-a649-362aef17109b/public)](https://www.credly.com/badges/d311284f-61d5-4e45-a649-362aef17109b)
+
+<div align="center">
+  
+<h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+
+Badges profile [here](https://www.credly.com/users/poojapatel/badges)
+
+<!--START_SECTION:badges-->
+[![JSLandia](https://images.credly.com/size/160x160/images/abf73960-edd2-4115-9ab9-e42e9fd967e9/JSLandia.png)](https://www.credly.com/badges/d311284f-61d5-4e45-a649-362aef17109b "OpenJS Foundation’s Individual Supporter")
+<!--END_SECTION:badges-->
+
+</div>
+<br/><br/>
+
 <p align="center">
   <img  align="center" style="width:80%;height:0;padding-bottom:182%;position:relative;" alt="Status_GIF" src="https://github.com/Pooja-Codes/Pooja-Codes/blob/main/Pooja-Status.gif">
 </p>
