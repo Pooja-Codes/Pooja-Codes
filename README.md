@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pooja-patel-here/"><img src="https://img.shields.io/badge/-Pooja%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p> 
-
+[![Credly Badge](https://www.credly.com/badges/d311284f-61d5-4e45-a649-362aef17109b/public)](https://www.credly.com/badges/d311284f-61d5-4e45-a649-362aef17109b)
 <p align="center">
   <img  align="center" style="width:80%;height:0;padding-bottom:182%;position:relative;" alt="Status_GIF" src="https://github.com/Pooja-Codes/Pooja-Codes/blob/main/Pooja-Status.gif">
 </p>
